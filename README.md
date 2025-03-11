@@ -323,6 +323,6 @@ This is a human-readable summary of (and not a substitute for) the [full license
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/forex-regime-pipeline](https://github.com/yourusername/forex-regime-pipeline)
+Project Link: https://github.com/joshuarhellerman/Clustering-Financial-Regimes-for-Optimal-Trading-Strategy-Deployment.git
 
 If you have any questions or feedback, please open an issue in the repository.
