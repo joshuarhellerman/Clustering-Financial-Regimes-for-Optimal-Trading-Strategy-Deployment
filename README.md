@@ -1,7 +1,7 @@
 # Regime-Adaptive Forex Strategy Pipeline 🚀
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey)](LICENSE)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A sophisticated quantitative trading system that leverages machine learning to identify distinct market regimes in forex and automatically deploy optimized trading strategies for each regime. Built on a modular, extensible architecture supporting multiple currencies, timeframes, and trading strategies.
@@ -286,7 +286,7 @@ Several advanced ML techniques could further improve performance:
 
 ## ✨ Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome for non-commercial use only. Please feel free to submit a Pull Request.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -298,7 +298,20 @@ Please ensure your code follows the project's coding standards and includes appr
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) - see the [LICENSE](LICENSE) file for details.
+
+### License Summary:
+
+- **You are free to**:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+
+- **Under the following terms**:
+  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+  - NonCommercial — You may not use the material for commercial purposes
+  - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+
+This is a human-readable summary of (and not a substitute for) the [full license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 ## 🙏 Acknowledgements
 
